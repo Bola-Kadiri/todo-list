@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//Bola-Kadiri.github.io/todo-list/static/css/main.9e0e7e87.css",
+    "main.js": "/https//Bola-Kadiri.github.io/todo-list/static/js/main.249e9866.js",
+    "index.html": "/https//Bola-Kadiri.github.io/todo-list/index.html",
+    "main.9e0e7e87.css.map": "/https//Bola-Kadiri.github.io/todo-list/static/css/main.9e0e7e87.css.map",
+    "main.249e9866.js.map": "/https//Bola-Kadiri.github.io/todo-list/static/js/main.249e9866.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e0e7e87.css",
+    "static/js/main.249e9866.js"
+  ]
+}
